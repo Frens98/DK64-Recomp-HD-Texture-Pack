@@ -1,0 +1,12 @@
+# Release assets are attached to GitHub Releases, not committed into Git history.
+*.rtz
+*.zip
+
+# Local RT64 capture/build data
+dump/
+textures/
+*.dds
+*.png
+
+# Local build output
+build/
